@@ -1,5 +1,8 @@
 _repo: History-of-the-Reformation-in-Europe-in-the-Time-of-Calvin-Vol-5-of-8_61277
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61277-h/images/cover.jpg
 creator:
   author:
     agent_name: Merle d'Aubigné, J. H. (Jean Henri)
@@ -17,6 +20,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Jean-Henri_Merle_d%27Aubign%C3%A9
     - https://en.wikipedia.org/wiki/Jean-Henri_Merle_d%27Aubign%C3%A9
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61277#History-of-the-Reformation-in-Europe-in-the-Time-of-Calvin-Vol-5-of-8
 gutenberg_issued: '2020-01-31'
 gutenberg_type: Text
 identifiers:
